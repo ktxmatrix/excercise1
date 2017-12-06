@@ -1,0 +1,21 @@
+div {
+    width: 100px;
+    height: 200px;
+    border: 2px double chocolate;
+}
+
+img {
+    border: 10px groove red;
+}
+
+.first {
+    border: 10px dashed blue;
+}
+
+.second {
+    border: 10px dotted aqua;
+}
+
+.third {
+    border: 10px inset darkgreen;
+}
