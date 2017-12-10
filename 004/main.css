@@ -1,5 +1,7 @@
 div {
     width: 200px;
     height: 200px;
+    border-radius: 10%;
+    border: groove 20px;
     background-color: aqua;
 }
