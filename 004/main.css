@@ -4,4 +4,7 @@ div {
     border-radius: 10%;
     border: groove 20px;
     background-color: aqua;
+    background-image: url("../000/img/drevil.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
