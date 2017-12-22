@@ -4,10 +4,15 @@
     font-size: large;
 }
 
-#promote    {
+#promote1    {
     color: limegreen;
 }
 
 #promote2   {
     color: deepskyblue;
+}
+
+[contenteditable]   {
+    color: indianred;
+    border: 2px black dot-dash;
 }
