@@ -13,6 +13,14 @@
 }
 
 [contenteditable]   {
-    color: indianred;
+    color: blue;
     border: 2px black dot-dash;
+}
+
+[src]   {
+    border: black 10px dot-dot-dash;
+}
+
+[href]  {
+    border: darkslateblue 10px double;
 }
