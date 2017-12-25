@@ -1,0 +1,29 @@
+body    {
+    color: green;
+    font-size: 60px;
+    font-style: italic;
+    text-align: center;
+    border: lightgoldenrodyellow 20px groove;
+}
+
+/*
+The order matters
+LVHA
+Link Visited Hover Active
+*/
+
+a:link  {
+    color: yellow;
+}
+
+a:visited   {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active    {
+    color: burlywood;
+}
