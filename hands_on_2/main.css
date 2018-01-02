@@ -1,0 +1,35 @@
+html    {
+    background-color: cornflowerblue;
+}
+
+body    {
+    width: 60%;
+    margin: 0 auto;
+    background-color: forestgreen;
+    border: 5px solid black;
+}
+
+
+#first  {
+    color: orangered;
+}
+
+#second {
+    color: deepskyblue;
+}
+
+section {
+    text-align: center;
+}
+
+p   {
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+
+img {
+    border: 10px orange ridge;
+    border-radius: 100%;
+    margin: 0 auto;
+}
