@@ -1,11 +1,11 @@
 div {
-    background-color: red;
+    background-color: green;
     width: 100px;
     height: 100px;
     display: inline-block;
 }
 
 div:hover   {
-    background-color: green;
+    background-color: red;
     cursor: pointer;
 }
