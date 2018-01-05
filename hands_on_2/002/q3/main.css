@@ -1,0 +1,10 @@
+a {
+    color: #000;
+    margin: inherit;
+}
+
+a[target] {
+    color: deepskyblue;
+    border: red 10px double;
+}
+
