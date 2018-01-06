@@ -1,0 +1,11 @@
+p::first-letter {
+    font-size: large;
+    color: orangered;
+    font-weight: bold;
+}
+
+p::first-line   {
+    font-size: medium;
+    color: blue;
+    font-style: normal;
+}
