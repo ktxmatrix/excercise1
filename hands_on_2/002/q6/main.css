@@ -1,0 +1,19 @@
+div p {
+    color: red;
+}
+
+div > p {
+    color: blue;
+}
+
+div ~ p {
+    color: green;
+    font-weight: bold;
+}
+
+
+div + p {
+    color: blueviolet;
+    font-weight: bold;
+    border: 20px black double;
+}
