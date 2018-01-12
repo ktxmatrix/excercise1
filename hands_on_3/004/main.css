@@ -1,0 +1,25 @@
+li[type=square]  {
+    color: blue;
+    font-style: italic;
+}
+
+
+#first_id   {
+    color: red;
+    font-size: 40px;
+}
+
+#second_id   {
+    color: hotpink;
+    font-size: 20px;
+}
+
+.first_class    {
+    color: cornflowerblue;
+    font-size: x-small;
+}
+
+.second_class    {
+    color: green;
+    font-size: medium;
+}
