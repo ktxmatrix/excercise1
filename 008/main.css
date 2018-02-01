@@ -2,10 +2,30 @@ p   {
     font-family: 'Indie Flower', cursive;
     font-size: large;
     color: #003476;
+    font-variant: all-small-caps;
+    word-spacing: 10px;
 }
 
 article {
     font-family: 'Dancing Script', cursive;
-    font-size: xx-large;
+    font-size: 4rem;
+    font-weight: lighter;
+    font-style: oblique;
     color: #aa0000;
+    text-align: center;
+    text-shadow: 2px 2px 100px black;
 }
+
+h3  {
+    text-decoration: line-through;
+    text-indent: 10px;
+}
+
+/*
+article {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: xx-large;
+    color: #0c5460;
+}
+*/
+
