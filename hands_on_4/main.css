@@ -1,0 +1,50 @@
+h1 {
+    font-family: sans-serif;
+    text-shadow: -2px -2px 10px red;
+}
+
+p {
+    font-family: sans-serif;
+    color: red;
+    text-decoration-line: line-through;
+}
+
+a:link {
+    font-family: 'Nosifer', cursive;
+    color: #003476;
+    text-decoration-line: none;
+}
+
+a:visited {
+    font-family: 'Nosifer', cursive;
+    color: black;
+    text-decoration-line: line-through;
+}
+
+a:hover {
+    font-family: 'Nosifer', cursive;
+    color: #6A6A6A;
+    text-decoration-line: underline;
+}
+
+/*
+a:active {
+    font-family: 'Nosifer', cursive;
+    color: ;
+    text-decoration-line: none;
+}
+*/
+
+
+
+article {
+    font-family: 'Kalam', cursive;
+    text-transform: capitalize;
+    text-indent: 40px;
+}
+
+section {
+    font-family: 'Indie Flower', cursive;
+    word-spacing: 5px;
+    padding: 20px;
+}
