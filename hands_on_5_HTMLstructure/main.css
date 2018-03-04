@@ -1,0 +1,48 @@
+header  {
+    color: red;
+}
+
+h1  {
+    color: green;
+    text-transform: uppercase;
+    font-family: "American Typewriter";
+    font-weight: bold;
+}
+
+p   {
+    font-size: large;
+    font-family: 'Nosifer', cursive;
+    color: blue;
+}
+
+footer  {
+    font-family: 'Indie Flower', cursive;
+    color: brown;
+    font-weight: lighter;
+}
+
+aside   {
+    font-family: 'Dancing Script', cursive;
+    color: purple;
+    font-weight: normal;
+}
+
+a:link  {
+    text-decoration-line: blink;
+    color: black;
+}
+
+a:visited   {
+    text-decoration-line: line-through;
+    color: mediumpurple;
+}
+
+a:hover  {
+    text-decoration-line: underline;
+    color: navy;
+}
+
+a:active {
+    text-decoration-line: overline;
+    color: chocolate;
+}
