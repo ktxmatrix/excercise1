@@ -1,0 +1,33 @@
+body    {
+    border: 2px blue dotted;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+nav, main   {
+    border: 1px black solid;
+    font-weight: lighter;
+    box-sizing: border-box;
+}
+
+h1  {
+    text-transform: uppercase;
+    color: red;
+}
+
+p1  {
+    font-family: sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+nav {
+    vertical-align: top;
+    display: inline-block;
+    width: 25%;
+}
+
+main    {
+    display: inline-block;
+    width: 75%;
+}
