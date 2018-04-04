@@ -1,13 +1,16 @@
 body    {
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: row wrap;
     /*
     justify-content: space-evenly;
     */
-    align-items: flex-start;
+    height: 700px;
+    align-content: flex-start;
+    border: 5px blue solid;
 }
 
 div {
+    flex-grow: 1;
     border: 2px red solid;
     margin: 1em;
     width: 200px;
