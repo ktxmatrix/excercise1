@@ -2,6 +2,11 @@ h1  {
     color: red;
 }
 
-p   {
-    color: black;
+
+
+@media (max-width: 900px) {
+    p   {
+        color: purple;
+        font-family: 'Kalam', cursive;
+    }
 }
