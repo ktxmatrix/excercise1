@@ -14,5 +14,7 @@ body    {
 
 .c1, .c2, .c3, .c4, .c5, .c6, .c7   {
     width: 100%;
-    min-height: 100px;
+    min-height: 50px;
+    text-align: center;
+    line-height: 50px;
 }
