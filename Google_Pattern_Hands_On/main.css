@@ -6,7 +6,7 @@ body    {
     display: flex;
     flex-flow: row wrap;
     /*  formatting    */
-    border: 5px red solid;
+    border: 5px black dashed;
     width: 100%;
     padding: 0;
     margin: 0 auto;
