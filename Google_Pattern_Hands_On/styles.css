@@ -1,9 +1,16 @@
+div {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .c1 {
     background-color: rebeccapurple;
+    background-image: url("https://vignette.wikia.nocookie.net/p__/images/a/a5/Borat.jpg/revision/latest?cb=20140408233820&path-prefix=protagonist");
 }
 
 .c2 {
     background-color: red;
+    background-image: url("https://vignette.wikia.nocookie.net/p__/images/a/a5/Borat.jpg/revision/latest?cb=20140408233820&path-prefix=protagonist");
 }
 
 .c3 {
