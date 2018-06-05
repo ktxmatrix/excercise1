@@ -1,0 +1,22 @@
+html, body, div     {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+body    {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    /*  formatting  */
+    border: 10px red solid;
+    background-image: url("http://kb4images.com/images/tropical-paradise/36141629-tropical-paradise.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+p   {
+    font-size:  4rem;
+}
