@@ -11,6 +11,7 @@ ul  {
 }
 
 a   {
+
     display: block;
 }
 
@@ -18,15 +19,18 @@ div {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    height: 90vh;
+    height: 100vh;
     background-image: url("OAK_crew_preggers.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
+
 }
 
 p   {
-    font-size: large;
+    font-size: xx-large;
     font-weight: bold;
     color: lightgrey;
     text-align: left;
+    border: 5px royalblue solid;
+    background-color: black;
 }
