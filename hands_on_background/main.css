@@ -1,0 +1,21 @@
+body    {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+body    {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* formatting */
+    background-color: #aa0000;
+    height: 85vh;
+}
+
+h1  {
+    font-size: 20rem;
+    color: aliceblue;
+    text-align: center;
+}
